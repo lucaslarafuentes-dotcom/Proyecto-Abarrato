@@ -8,6 +8,6 @@ Para las familias y pequeños comerciantes que sufren la pérdida de poder adqui
 * Valentina Lara Menares - [@seesawgi](https://github.com/seesawgi)
 
 **Enlaces del Hito 1:**
-* 📱 [Prototipo Navegable]()
-* 📄 [Documento de Propuesta (PDF)]()
-* 📊 [Láminas de la Presentación (PDF)]()
+*  [Prototipo Navegable]()
+*  [Documento de Propuesta (PDF)]()
+*  [Láminas de la Presentación (PDF)]()
