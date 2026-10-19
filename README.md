@@ -10,4 +10,4 @@ Para las familias y pequeños comerciantes que sufren la pérdida de poder adqui
 **Enlaces del Hito 1:**
 *  [Prototipo Navegable](https://lucaslarafuentes-dotcom.github.io/Proyecto-Abarrato/Prototipo.html)
 *  [Documento de Propuesta (PDF)](https://github.com/lucaslarafuentes-dotcom/Proyecto-Abarrato/blob/main/docs/Proyecto%20Abarrato%20(6).pdf)
-*  [Láminas de la Presentación (PDF)](https://github.com/lucaslarafuentes-dotcom/Proyecto-Abarrato/blob/main/docs/Presentacion_Abarrato_Hito1%20(1).pdf)
+*  [Láminas de la Presentación (PDF)](https://github.com/lucaslarafuentes-dotcom/Proyecto-Abarrato/blob/main/docs/Presentacion_Abarrato_Hito1%20(3).pdf)
